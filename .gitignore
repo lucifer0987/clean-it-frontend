@@ -1,4 +1,4 @@
-/clean-it-backend/node_modules/
+./clean-it-backend/node_modules/
 
 # Miscellaneous
 *.class
