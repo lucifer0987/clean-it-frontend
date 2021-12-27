@@ -7,6 +7,7 @@ import 'package:cleanit/models/pickup.dart';
 import 'package:cleanit/models/user.dart';
 import 'package:cleanit/pages/admin/admin.dart';
 import 'package:cleanit/pages/auth/widgets/signIn.dart';
+import 'package:cleanit/pages/auth/widgets/signup.dart';
 import 'package:cleanit/pages/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
