@@ -23,9 +23,14 @@
 
 ## Tech Stack Used
 
-<div><img src="https://img.icons8.com/fluency/96/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/96/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/96/000000/adobe-xd--v2.png"/></div>
+<><img src="https://img.icons8.com/fluency/96/000000/flutter.png"/>
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
+<img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"/>
+<img src="https://img.icons8.com/color/344/mongodb.png"/></
+<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+<div>
+
+
 
 ## Want To Use It ?
 
