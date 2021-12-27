@@ -19,7 +19,7 @@ class Profile extends StatelessWidget {
                   margin: EdgeInsets.only(top: 20),
                   child: cleanItAppBar(
                     headText: 'My Profile',
-                    subHeading: 'Hi Ishaan ! Manage your profile settings here',
+                    subHeading: 'Hi User ! Manage your profile settings here',
                   ),
                 ),
                 Options(),
