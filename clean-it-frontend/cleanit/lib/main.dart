@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:cleanit/db/boxes.dart';
 import 'package:cleanit/db/hiveHelper.dart';
 import 'package:cleanit/models/loginInfo.dart';
