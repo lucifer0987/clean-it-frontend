@@ -37,7 +37,7 @@ class Admin extends StatelessWidget {
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
                                 txt(
-                                  'Clean It',
+                                  'Clean It Up',
                                   isBold: true,
                                   color: Colors.white,
                                   size: 15,
