@@ -10,16 +10,14 @@
 ## Quick Peek Into The App
 
 <div>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/splash.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/login.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/lightHome.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/darkHome.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/lightAddItem.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/darkAddItem.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/lightEdit.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/darkEdit.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/lightMenu.png" height="500px"/>
-<img src="https://raw.githubusercontent.com/ishaandwivedi1234/mynotes/main/screens/darkMenu.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/1.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/2.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/3.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/4.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/5.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/6.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/7.png" height="500px"/>
+<img src="https://github.com/ishaandwivedi1234/clean-it/blob/main/screenshots/8.png" height="500px"/>
 
 </div>
 
